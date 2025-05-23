@@ -1,0 +1,5 @@
+
+project_id = "rbkhuifngnmgsoeamlno"
+
+[functions.generate-event]
+verify_jwt = true
