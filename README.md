@@ -34,15 +34,15 @@ Visit [http://localhost:8080](http://localhost:8080) in your browser.
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](LICENSE)
-
 ## Screenshots
+### Home Page
 ![Home Page](screenshots/home.png)
+
+### Events Page
 ![Events Page](screenshots/events.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin.png)
 
 ## Usage
 - Navigate to the home page to view upcoming events.
@@ -51,3 +51,9 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Deployment
 To deploy this project, you can use platforms like Vercel, Netlify, or GitHub Pages. Follow the platform-specific instructions for deployment.
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](LICENSE)
